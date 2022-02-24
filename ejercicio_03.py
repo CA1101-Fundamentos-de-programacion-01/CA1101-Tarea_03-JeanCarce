@@ -1,7 +1,4 @@
-def repetir_cadena(n,m):
-
- print(n*m)
- 
- 
- repetir_cadena(10, "i")
+def repetir_cadena(a, b):
+    result = a * b
+    print(result)
  

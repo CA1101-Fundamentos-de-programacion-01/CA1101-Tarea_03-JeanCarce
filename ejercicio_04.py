@@ -1,7 +1,4 @@
-def repetir_cadena(n,m):
-
- print(n*m)
- 
- 
- repetir_cadena(10, "i")
+def suma_del_saltamontes(n):
+    result=(sum(range(n+1)))
+    print(result)
  
